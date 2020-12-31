@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-Hi, I'm Francisco. I'm 24 years old and live in the San Francisco Bay Area. I'm interested in personal finance, investing, technology, photography, and cooking. Proud CSU East Bay Alumnus.
+Hi, I'm Francisco. I'm 24 years old and live in the San Francisco Bay Area. I'm interested in personal finance, investing, technology, and photography. Proud CSU East Bay Alumnus.
 
 ## Currently:
 
