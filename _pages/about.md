@@ -8,4 +8,4 @@ Hi, I'm Francisco. I'm 24 years old and live in the San Francisco Bay Area. I'm 
 
 I just graduated college and work for a medium sized investment advisor based in Washington.
 
-![Photo](/ultra/assets/images/self_portrait.JPG)
+![Photo](/franciscoaguilera/assets/images/self_portrait.JPG)
