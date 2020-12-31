@@ -2,20 +2,10 @@
 layout: page
 title: About
 ---
+Hi, I'm Francisco. I'm 24 years old and live in the San Francisco Bay Area. I'm interested in personal finance, investing, technology, photography, and cooking. Proud CSU East Bay Alumnus.
 
-## Ultra - Super fast Jekyll theme 
+## Currently:
 
-Super fast, minimal one-column portfolio/blog theme built for Jekyll. Theme weighs under <strong>2kb</strong>. Perfect for your personal website, blog and portfolio.
+I just graduated college and work for a medium sized investment advisor based in Washington.
 
-### Key features
-
-- seo optimized
-- weighs under 2kb
-- portfolio/blog pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
+![Photo](/ultra/assets/images/self_portrait.JPG)
